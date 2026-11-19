@@ -25,3 +25,7 @@ def count(items):
     for _i in items:
         n += 1
     return n
+
+
+def broken_total():
+    return missing_total

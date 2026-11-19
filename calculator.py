@@ -28,4 +28,4 @@ def count(items):
 
 
 def broken_total():
-    return missing_total
+    return 0
